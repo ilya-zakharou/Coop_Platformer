@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GIT/Git/COOPPlatformer/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/hobbies/COOPPlatformer/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"D:/hobbies/COOPPlatformer/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/hobbies/COOPPlatformer/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/hobbies/COOPPlatformer/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset",
+				"D:/hobbies/COOPPlatformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
+				"D:/hobbies/COOPPlatformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset",
+				"D:/hobbies/COOPPlatformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
+				"D:/hobbies/COOPPlatformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset",
+				"D:/hobbies/COOPPlatformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset",
+				"D:/hobbies/COOPPlatformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset",
+				"D:/hobbies/COOPPlatformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset",
+				"D:/hobbies/COOPPlatformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset",
+				"D:/hobbies/COOPPlatformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"D:/hobbies/COOPPlatformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset",
+				"D:/hobbies/COOPPlatformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"D:/hobbies/COOPPlatformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset",
+				"D:/hobbies/COOPPlatformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset",
+				"D:/hobbies/COOPPlatformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset",
+				"D:/hobbies/COOPPlatformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset",
+				"D:/hobbies/COOPPlatformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset",
+				"D:/hobbies/COOPPlatformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"D:/hobbies/COOPPlatformer/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset"
+			]
+		}
+	]
+}
